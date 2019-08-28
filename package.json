@@ -1,0 +1,28 @@
+{
+  "name": "typogen",
+  "version": "1.0.0",
+  "description": "Introduce configurable typos into a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eb3095/typogen.git"
+  },
+  "keywords": [
+    "typo",
+    "typos",
+    "text",
+    "message",
+    "string",
+    "spelling",
+    "misspelling"
+  ],
+  "author": "eb3095",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eb3095/typogen/issues"
+  },
+  "homepage": "https://github.com/eb3095/typogen#readme"
+}
